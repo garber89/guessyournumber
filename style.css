@@ -1,5 +1,12 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
 div{
-    height: 50vh;
+    padding: 10px;
+    height: auto;
+    width: auto;
 }
 footer{
     color: #FBFBF8;
@@ -9,9 +16,6 @@ footer{
     text-align: center;
     margin: 1em;
     padding: 2rem;
-}
-div{
-    padding: 10px;
 }
 body{
     margin: 20px;
