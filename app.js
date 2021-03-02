@@ -18,7 +18,7 @@ while (guess !== targNum) {
 
 jQuery(document).ready(function () {
     $('div').text('You Guessed the Number!');
-    $('div').css('font-size', '6em');
+    $('div').css('font-size', '5em');
     $('div').css('color', '#265B5F');
     $('div').css('text-align', 'center');
     $('div').css('font-family', 'Georgia');
